@@ -7,3 +7,5 @@ C:\Users\Quincy\Desktop\EFConnect\EFConnect.Data\obj\Debug\netcoreapp2.1\EFConne
 C:\Users\Quincy\Desktop\EFConnect\EFConnect.Data\obj\Debug\netcoreapp2.1\EFConnect.Data.AssemblyInfo.cs
 C:\Users\Quincy\Desktop\EFConnect\EFConnect.Data\obj\Debug\netcoreapp2.1\EFConnect.Data.dll
 C:\Users\Quincy\Desktop\EFConnect\EFConnect.Data\obj\Debug\netcoreapp2.1\EFConnect.Data.pdb
+C:\Users\Quincy\Desktop\EFConnect\EFConnect.Data\bin\Debug\netcoreapp2.1\EFConnect.Data.runtimeconfig.json
+C:\Users\Quincy\Desktop\EFConnect\EFConnect.Data\bin\Debug\netcoreapp2.1\EFConnect.Data.runtimeconfig.dev.json
