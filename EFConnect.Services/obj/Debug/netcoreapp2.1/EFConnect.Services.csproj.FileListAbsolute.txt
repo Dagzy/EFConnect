@@ -1,0 +1,16 @@
+C:\Users\Quincy\Desktop\EFConnect\EFConnect.Services\bin\Debug\netcoreapp2.1\EFConnect.Services.deps.json
+C:\Users\Quincy\Desktop\EFConnect\EFConnect.Services\bin\Debug\netcoreapp2.1\EFConnect.Services.dll
+C:\Users\Quincy\Desktop\EFConnect\EFConnect.Services\bin\Debug\netcoreapp2.1\EFConnect.Services.pdb
+C:\Users\Quincy\Desktop\EFConnect\EFConnect.Services\bin\Debug\netcoreapp2.1\EFConnect.Contracts.dll
+C:\Users\Quincy\Desktop\EFConnect\EFConnect.Services\bin\Debug\netcoreapp2.1\EFConnect.Data.dll
+C:\Users\Quincy\Desktop\EFConnect\EFConnect.Services\bin\Debug\netcoreapp2.1\EFConnect.Models.dll
+C:\Users\Quincy\Desktop\EFConnect\EFConnect.Services\bin\Debug\netcoreapp2.1\EFConnect.Data.pdb
+C:\Users\Quincy\Desktop\EFConnect\EFConnect.Services\bin\Debug\netcoreapp2.1\EFConnect.Models.pdb
+C:\Users\Quincy\Desktop\EFConnect\EFConnect.Services\bin\Debug\netcoreapp2.1\EFConnect.Contracts.pdb
+C:\Users\Quincy\Desktop\EFConnect\EFConnect.Services\obj\Debug\netcoreapp2.1\EFConnect.Services.csprojAssemblyReference.cache
+C:\Users\Quincy\Desktop\EFConnect\EFConnect.Services\obj\Debug\netcoreapp2.1\EFConnect.Services.csproj.CoreCompileInputs.cache
+C:\Users\Quincy\Desktop\EFConnect\EFConnect.Services\obj\Debug\netcoreapp2.1\EFConnect.Services.AssemblyInfoInputs.cache
+C:\Users\Quincy\Desktop\EFConnect\EFConnect.Services\obj\Debug\netcoreapp2.1\EFConnect.Services.AssemblyInfo.cs
+C:\Users\Quincy\Desktop\EFConnect\EFConnect.Services\obj\Debug\netcoreapp2.1\EFConnect.Services.csproj.CopyComplete
+C:\Users\Quincy\Desktop\EFConnect\EFConnect.Services\obj\Debug\netcoreapp2.1\EFConnect.Services.dll
+C:\Users\Quincy\Desktop\EFConnect\EFConnect.Services\obj\Debug\netcoreapp2.1\EFConnect.Services.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "EFConnect.Models/1.0.0": {
+        "dependencies": {
+          "EFConnect.Data": "1.0.0"
+        },
+        "runtime": {
+          "EFConnect.Models.dll": {}
+        }
+      },
+      "EFConnect.Data/1.0.0": {
+        "runtime": {
+          "EFConnect.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EFConnect.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EFConnect.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
