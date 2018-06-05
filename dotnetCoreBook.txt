@@ -1,0 +1,29 @@
+Typos in 1.4  under configure method; list not being displayed properly for methods (1. repeat 1.)
+
+--~~IN SECTION 1.5 DO WE NEED TO BE TARGETING A SPECIFIC FRAMEWORK WITH THE NEW CLASSLIB?!?!~~--
+IT LOOKS LIKE WE NEED TO SPECIFY netcoreapp2 INSTEAD OF netcoreapp2.0; I DON'T KNOW WHAT THIS IS
+
+In module 2.0: clarify the creation of a directory; correct name of class to User;
+
+Copy/Paste doesn't really work very well in module 2.0; has something to do with hidden characters carried over.
+
+ConnectionString copy/paste is wrecked; starting to run into problems at the end of 2.0, using statements not annotated
+
+Typos in 2.1
+The <DotNetCliToolReference> xaml tag in module 2.1 is inaccurate as of .Net Core 2.1, it is tagged as <PackageReference>
+with the rest of the nuget packages that are installed.
+
+Typos in 2.2
+
+2.3: Generate Field From Parameter is not an option. Choosing Initialize Field From Parameter provides a field, but
+does not initialize using private member _ convention.
+
+2.3- ctrl + . and interface implementation is left ambiguous
+
+What is IAuthRepository referring to in 2.3?
+
+2.4: Missing ctrl + . for using statements
+
+2.5 Missing ctrl + . for using statements; typos
+---------Initialize field from parameter is correct here----------
+
